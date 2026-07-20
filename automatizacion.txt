@@ -1,0 +1,5 @@
+evento: nueva causa registrada
+
+mensaje: nueva causa creada en la plataforma
+informacion que no debe enviase: cedulas, telefonos,
+direcciones, comentarios sencibles o datos personales

@@ -1,0 +1,6 @@
+causa
+id
+titulo
+descripcion
+fecha
+

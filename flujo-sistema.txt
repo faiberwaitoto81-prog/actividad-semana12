@@ -1,0 +1,9 @@
+1. un ciudadano crea una causa.
+
+2. la cusa queda registrada en la base de datos.
+
+3. otros ciudadanos pueden apoyar la causa.
+
+4. el sistema cuenta los apoyos
+
+5. el sisitema genera un documento PDF con la peticion
